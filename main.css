@@ -11,3 +11,9 @@
         background-color: #0997d3;
     }
 }
+
+@media (max-width: 767px) {
+    .column {
+        background-color: #000;
+    }
+}
